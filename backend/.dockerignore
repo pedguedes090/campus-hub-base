@@ -1,0 +1,12 @@
+.gradle
+build/classes
+build/generated
+build/reports
+build/test-results
+build/tmp
+.idea
+*.iml
+.vscode
+*.log
+.DS_Store
+Thumbs.db
